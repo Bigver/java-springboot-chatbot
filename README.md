@@ -1,2 +1,2 @@
 ﻿# chatbot-project
-รายวิชา programming ตอนเรียนปี1 ใช้ Javaspringboot ในการพัฒนา
+รายวิชา programing ตอนเรียนปี1 ใช้ Javaspringboot ในการพัฒนา
